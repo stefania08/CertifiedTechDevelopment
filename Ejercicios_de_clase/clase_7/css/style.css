@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+}
+
+body{
+    text-align: left;
+}
+
+h1,h2{
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+footer{
+    text-align: center;
+    background-color: #005677;
+    color: white;
+}
